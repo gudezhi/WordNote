@@ -1,1 +1,3 @@
-belt-and-suspenders 
+belt-and-suspenders
+->意思：多余，脱裤子放屁
+->例句：I'll see what I can do. But for the record, Vim is already smart about when to complete hidden files, so adding `.git` to `'wildignore'` is very much a belt-and-suspenders solution to a non-problem.
